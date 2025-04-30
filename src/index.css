@@ -1,0 +1,32 @@
+*{
+  text-decoration: none;
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+header{
+  background-color: #fff;
+  width: 100%;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 3rem;
+}
+nav .nav-links a{
+  margin: 0 1em;
+  color: black;
+}
+article{
+
+  background-color: peachpuff;
+  font-size: 2rem;
+  padding: 12px;
+}
+.App{
+  height: 100dvh;
+  width: 100%;
+}
